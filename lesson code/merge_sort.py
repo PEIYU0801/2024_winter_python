@@ -6,3 +6,5 @@ while len(left) > 0 and len(right) > 0:
     if left[0] < right[0]:
         x = left.pop(0)
         result.append(x)
+    else 
+        result.append(right.pop(x))
